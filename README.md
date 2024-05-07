@@ -1,2 +1,2 @@
 # Downloader
-A python script that downloads files from internet
+A python script that downloads files from internet.
